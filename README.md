@@ -1,1 +1,1 @@
-# DP_To_AZ      [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#cloudshell)
+# Click the button to open Azure Cloud Shell      [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#cloudshell)
